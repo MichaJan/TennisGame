@@ -1,13 +1,13 @@
 # Tennis table game
 
-Opens up a simple Tennis game in a browser that reacts to player's mouse movements.<br />
+Opens up a simple table tennis arcade game in a browser that reacts to player's mouse movements.<br />
 Features: <br />
 - HTML canvas
 - JS
 
-Link to the website:
-https://mikaeljan.github.io/TennisGame/ <br />
+## Live [demo](https://mikaeljan.github.io/TennisGame/)
 
-For any questions please contact me on:<br />
-mikael.janek@gmail.com
+## Contact
+For any questions please feel free to contact me:<br />
+<a href="mailto:mikael.janek@gmail.com">mikael.janek@gmail.com</a>
 
